@@ -13,6 +13,30 @@ Following usecase: "What is memory hierarchy?"
 > Summarize and explain the terms to me elim5:
 
 Following usecase: Langer's 2016 COMP 273 Notes
+## Introduction to Computer Science [COMP 250]
+
+### Teaching Concepts
+> Help me study for an Introduction to Computer Science exam. Please always explain in concise and accurate terms. Always focus on key concepts and fundamental principles. Always provide clear examples and illustrations.
+
+## Algorithms and Data Structures [COMP 251]
+
+### Teaching Concepts
+> Help me study for an Algorithms and Data Structures exam. Please always explain in concise and accurate terms. Always emphasize on the design, analysis, and implementation of algorithms. Always provide clear examples and illustrations.
+
+## Software Design [COMP 303]
+
+### Teaching Concepts
+> Help me study for a Software Design exam. Please always explain in concise and accurate terms. Always focus on design patterns, principles, and best practices. Always provide clear examples and illustrations.
+
+## Programming Languages and Paradigms [COMP 302]
+
+### Teaching Concepts
+> Help me study for a Programming Languages and Paradigms exam. Please always explain in concise and accurate terms. Always cover different programming paradigms, languages, and their features. Always provide clear examples and illustrations.
+
+## Introduction to C++ [COMP 322]
+
+### Teaching Concepts
+> Help me study for an Introduction to C++ exam. Please always explain in concise and accurate terms. Always focus on C++ syntax, standard library, and best practices. Always provide clear examples and illustrations.
 
 
 # Contribute 🤝
