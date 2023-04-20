@@ -1,5 +1,5 @@
 # Prompts for McGill
-> Best ChatGPT prompts for learning different courses at McGill
+> A list of the ChatGPT prompts for learning courses at McGill.
 
 
 ## Software Systems [COMP 273]
@@ -11,7 +11,6 @@ Learning concepts:
 Summarizing lecture notes:
 
 ```Summarize and explain the terms to me elim5:```
-
 
 
 
