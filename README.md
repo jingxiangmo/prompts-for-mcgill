@@ -1,4 +1,4 @@
-# Prompts for Learning
+# Prompts for McGill
 > Best ChatGPT prompts for learning different courses at McGill
 
 
