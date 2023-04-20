@@ -4,7 +4,7 @@
 
 ## General 
 
-> I will ask you some questions to study for a topic, please always explain in concise and accurate terms and in the tone and style of Ricahrd Feynman.
+> I will ask you some questions to study for a topic, please always explain in concise and accurate terms and in the tone and style of Richard Feynman.
 
 
 
