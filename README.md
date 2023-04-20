@@ -11,3 +11,12 @@ Learning concepts:
 Summarizing lecture notes:
 
 ```Summarize and explain the terms to me elim5:```
+
+
+
+
+
+# Contribute 🤝
+Feel free to make a new PR to contribute the best prompts! We can make learning at McGill much easier!
+
+Inspiration: https://www.lesswrong.com/posts/bxt7uCiHam4QXrQAA/cyborgism
