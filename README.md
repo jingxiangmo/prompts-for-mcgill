@@ -2,6 +2,12 @@
 > A list of the best ChatGPT prompts for studying at McGill.
 
 
+## General 
+
+> I will ask you some questions to study for a topic, please always explain in concise and accurate terms and in the tone and style of Ricahrd Feynman.
+
+
+
 ## Software Systems [COMP 273]
 
 ### Teaching Concepts
