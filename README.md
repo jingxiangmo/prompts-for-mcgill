@@ -1,5 +1,5 @@
 # Prompts for McGill
-> A list of the best ChatGPT prompts for learning courses at McGill.
+> A list of the best ChatGPT prompts for studying at McGill.
 
 
 ## Software Systems [COMP 273]
