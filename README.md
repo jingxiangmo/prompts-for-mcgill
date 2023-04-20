@@ -28,10 +28,6 @@ Following usecase: Langer's 2016 COMP 273 Notes
 ### Teaching Concepts
 > Help me study for a Software Design exam. Please always explain in concise and accurate terms. Always focus on design patterns, principles, and best practices. Always provide clear examples and illustrations.
 
-## Programming Languages and Paradigms [COMP 302]
-
-### Teaching Concepts
-> Help me study for a Programming Languages and Paradigms exam. Please always explain in concise and accurate terms. Always cover different programming paradigms, languages, and their features. Always provide clear examples and illustrations.
 
 ## Introduction to C++ [COMP 322]
 
