@@ -5,12 +5,12 @@
 ## Software Systems [COMP 273]
 
 ### Teaching Concepts
-> Help me study for a software systems exam. Please always explain in concise and accurate terms. Always elim5. The unstructured information I paste are from notes or slides. Always format the tables and charts nicely.
+> Help me study for a software systems exam. Please always explain in concise and accurate terms. In the tone of Richard Feynman. The unstructured information I paste are from notes or slides. Always format the tables and charts nicely.
 
 Following usecase: "What is memory hierarchy?"
 
 ### Summarizing lecture notes
-> Summarize and explain the terms to me elim5:
+> Summarize and explain the terms to me elim5 in the tone of Richard Feynman.
 
 Following usecase: Langer's 2016 COMP 273 Notes
 ## Introduction to Computer Science [COMP 250]
