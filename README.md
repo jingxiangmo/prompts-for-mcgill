@@ -9,7 +9,7 @@
 
 Following usecase: "What is the memory hierarchy?"
 
-Summarizing lecture notes
+**Summarizing lecture notes**
 > Summarize and explain the terms to me elim5:
 
 Following usecase: Langer's 2016 COMP 273 Notes
